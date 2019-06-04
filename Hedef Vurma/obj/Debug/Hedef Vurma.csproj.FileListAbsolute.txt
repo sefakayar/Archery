@@ -1,0 +1,71 @@
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Hedef Vurma\Hedef Vurma\bin\Debug\Hedef Vurma.exe.config
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Hedef Vurma\Hedef Vurma\bin\Debug\Hedef Vurma.exe
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Hedef Vurma\Hedef Vurma\bin\Debug\Hedef Vurma.pdb
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.anaEkran.resources
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.Properties.Resources.resources
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.exe
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.pdb
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.oyunEkrani.resources
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.sonEkran.resources
+C:\Users\Pau\Desktop\Yeni klasör\Hedef Vurma\Hedef Vurma\bin\Debug\Hedef Vurma.exe.config
+C:\Users\Pau\Desktop\Yeni klasör\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.exe
+C:\Users\Pau\Desktop\Yeni klasör\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.pdb
+C:\Users\Pau\Desktop\Yeni klasör\Hedef Vurma\Hedef Vurma\bin\Debug\Hedef Vurma.exe
+C:\Users\Pau\Desktop\Yeni klasör\Hedef Vurma\Hedef Vurma\bin\Debug\Hedef Vurma.pdb
+C:\Users\Pau\Desktop\Yeni klasör\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.csprojResolveAssemblyReference.cache
+C:\Users\Pau\Desktop\Yeni klasör\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.anaEkran.resources
+C:\Users\Pau\Desktop\Yeni klasör\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.oyunEkrani.resources
+C:\Users\Pau\Desktop\Yeni klasör\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.Properties.Resources.resources
+C:\Users\Pau\Desktop\Yeni klasör\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.sonEkran.resources
+C:\Users\Pau\Desktop\Yeni klasör\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.csproj.GenerateResource.Cache
+C:\Users\Oguz\Desktop\Hedef Vurma\Hedef Vurma\bin\Debug\Hedef Vurma.exe.config
+C:\Users\Oguz\Desktop\Hedef Vurma\Hedef Vurma\bin\Debug\Hedef Vurma.exe
+C:\Users\Oguz\Desktop\Hedef Vurma\Hedef Vurma\bin\Debug\Hedef Vurma.pdb
+C:\Users\Oguz\Desktop\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.csprojAssemblyReference.cache
+C:\Users\Oguz\Desktop\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.anaEkran.resources
+C:\Users\Oguz\Desktop\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.oyunEkrani.resources
+C:\Users\Oguz\Desktop\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.Properties.Resources.resources
+C:\Users\Oguz\Desktop\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.sonEkran.resources
+C:\Users\Oguz\Desktop\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.csproj.GenerateResource.cache
+C:\Users\Oguz\Desktop\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.csproj.CoreCompileInputs.cache
+C:\Users\Oguz\Desktop\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.exe
+C:\Users\Oguz\Desktop\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.pdb
+C:\Users\Sefa\Desktop\Hedef Vurma\Hedef Vurma\bin\Debug\Hedef Vurma.exe.config
+C:\Users\Sefa\Desktop\Hedef Vurma\Hedef Vurma\bin\Debug\Hedef Vurma.exe
+C:\Users\Sefa\Desktop\Hedef Vurma\Hedef Vurma\bin\Debug\Hedef Vurma.pdb
+C:\Users\Sefa\Desktop\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.anaEkran.resources
+C:\Users\Sefa\Desktop\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.oyunEkrani.resources
+C:\Users\Sefa\Desktop\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.Properties.Resources.resources
+C:\Users\Sefa\Desktop\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.sonEkran.resources
+C:\Users\Sefa\Desktop\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.exe
+C:\Users\Sefa\Desktop\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.pdb
+E:\Hedef Vurma\Hedef Vurma\bin\Debug\Hedef Vurma.exe.config
+E:\Hedef Vurma\Hedef Vurma\bin\Debug\Hedef Vurma.exe
+E:\Hedef Vurma\Hedef Vurma\bin\Debug\Hedef Vurma.pdb
+E:\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.csprojAssemblyReference.cache
+E:\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.anaEkran.resources
+E:\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.oyunEkrani.resources
+E:\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.Properties.Resources.resources
+E:\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.sonEkran.resources
+E:\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.csproj.GenerateResource.cache
+E:\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.csproj.CoreCompileInputs.cache
+E:\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.exe
+E:\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.pdb
+C:\Users\Sefa\Desktop\Yazılım Programları\C#\Hedef Vurma\Hedef Vurma\bin\Debug\Hedef Vurma.exe.config
+C:\Users\Sefa\Desktop\Yazılım Programları\C#\Hedef Vurma\Hedef Vurma\bin\Debug\Hedef Vurma.exe
+C:\Users\Sefa\Desktop\Yazılım Programları\C#\Hedef Vurma\Hedef Vurma\bin\Debug\Hedef Vurma.pdb
+C:\Users\Sefa\Desktop\Yazılım Programları\C#\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\Yazılım Programları\C#\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.anaEkran.resources
+C:\Users\Sefa\Desktop\Yazılım Programları\C#\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.oyunEkrani.resources
+C:\Users\Sefa\Desktop\Yazılım Programları\C#\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.Properties.Resources.resources
+C:\Users\Sefa\Desktop\Yazılım Programları\C#\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef_Vurma.sonEkran.resources
+C:\Users\Sefa\Desktop\Yazılım Programları\C#\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\Yazılım Programları\C#\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\Yazılım Programları\C#\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.exe
+C:\Users\Sefa\Desktop\Yazılım Programları\C#\Hedef Vurma\Hedef Vurma\obj\Debug\Hedef Vurma.pdb
